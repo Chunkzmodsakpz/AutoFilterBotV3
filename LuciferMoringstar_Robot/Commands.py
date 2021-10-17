@@ -117,7 +117,7 @@ async def start(bot, message):
                 [[
                 InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
                 ],[
-                InlineKeyboardButton("Help", callback_data="help"),
+                InlineKeyboardButton("📩𝗢𝗧𝗧 𝗠𝗢𝗩𝗜𝗘𝗦📩", url='https://t.me/filmbox112'),
                 InlineKeyboardButton("About", callback_data="about")
                 ]]
             )
