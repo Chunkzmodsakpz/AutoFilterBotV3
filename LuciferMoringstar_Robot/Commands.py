@@ -115,10 +115,10 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
+                InlineKeyboardButton("📺 𝗦𝗘𝗔𝗥𝗖𝗛 𝗛𝗘𝗥𝗘 🔍", switch_inline_query_current_chat='')
                 ],[
                 InlineKeyboardButton("📩𝗢𝗧𝗧 𝗠𝗢𝗩𝗜𝗘𝗦📩", url='https://t.me/filmbox112'),
-                InlineKeyboardButton("About", callback_data="about")
+                InlineKeyboardButton("𝗔𝗕𝗢𝗨𝗧", callback_data="about")
                 ]]
             )
         )
