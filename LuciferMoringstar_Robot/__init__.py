@@ -30,11 +30,11 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator :[Abin](https://t.me/Abintply) 
+➥ Creator :[BHAVANI-ANJOORAN](https://t.meCrime_bhavani_4) 
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ 📥𝗢𝗧𝗧 𝗠𝗢𝗩𝗜𝗘𝗦📥 : [Click Me](https://t.me/filmbox112)
+➥ 📥𝗢𝗧𝗧 𝗠𝗢𝗩𝗜𝗘𝗦 CRIMEMOVIES📥 : [Click Me](https://t.me/crimebhavani4)
 """
